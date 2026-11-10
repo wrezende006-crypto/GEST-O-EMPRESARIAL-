@@ -1,0 +1,6 @@
+{
+  "name": "NEXT GESTÃO - Gestão de Serviços Elétricos",
+  "description": "Sistema integrado de gestão para empresas de serviços elétricos, instalações, manutenção, formação de preços, fluxo de caixa e propostas comerciais.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
